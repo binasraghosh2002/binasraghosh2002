@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Market-Basket Analysis.**
 
-- 🌱 I’m currently learning **Machine Learning and Gen AI.**
+- 🌱 I’m currently learning **Machine Learning and Mern Stack.**
 
-- 💬 Ask me about **Mern Stack.**
+- 💬 Ask me about **Reactjs.**
 
 - 📫 How to reach me **binasraghos2002@gmail.com**
 
