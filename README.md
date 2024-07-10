@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Reactjs.**
 
-- 📫 How to reach me **binasraghos2002@gmail.com**
+- 📫 How to reach me **binasraghosh2002@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
