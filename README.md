@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Mern Stack.**
 
-- 💬 Ask me about **Reactjs.**
+- 💬 Ask me about **Mern.**
 
 - 📫 How to reach me **binasraghosh2002@gmail.com**
 
